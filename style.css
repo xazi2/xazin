@@ -73,3 +73,11 @@ body{
     border-bottom:.1rem solide var(--main-color) ;
     padding-bottom: .5rem;
 }
+
+.home{
+
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(fotos/s2Prancheta1.jpg) no-repeat;
+}
