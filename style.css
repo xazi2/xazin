@@ -80,6 +80,7 @@ body{
     display: flex;
     align-items: center;
     background:url(fotos/s2Prancheta1.jpg) no-repeat;
+    body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
 }
 .sobremim{
 
@@ -87,6 +88,7 @@ body{
     display: flex;
     align-items: center;
     background:url(fotos/s2Prancheta2.jpg) no-repeat;
+    body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
 }
 
 
@@ -96,6 +98,7 @@ body{
     display: flex;
     align-items: center;
     background:url(fotos/s2Prancheta3.jpg) no-repeat;
+    body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
 }
 
 
@@ -106,4 +109,5 @@ body{
     display: flex;
     align-items: center;
     background:url(fotos/s2Prancheta4.jpg) no-repeat;
+    body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
 }
