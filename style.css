@@ -74,8 +74,8 @@ body{
     padding-bottom: .5rem;
 }
 
-.home{
 
+.inicio{
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -110,4 +110,38 @@ body{
     align-items: center;
     background:url(fotos/s2Prancheta4.jpg) no-repeat;
     body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
+}
+.footer{
+    background:var(--black);
+    text-align: center
+
+}
+.footer .share{
+
+    padding: 1rem 0;
+}
+.footer .share a{
+
+    height: 3rem;
+    width: 3rem;
+    line-height: 3rem;
+    font-size: 2rem;
+    color:aqua;
+    border:var(--border);
+    margin: .3rem;
+    border-radius: 50%;
+}
+
+.footer .share a:hover{
+
+    background-color: var(--main-color);
+
+}
+
+.footer .credit{
+
+    font-size: 2rem;
+    color: #fff;
+    font-weight: lighter;
+    padding: 1.5rem;
 }
