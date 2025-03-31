@@ -81,3 +81,29 @@ body{
     align-items: center;
     background:url(fotos/s2Prancheta1.jpg) no-repeat;
 }
+.sobremim{
+
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(fotos/s2Prancheta2.jpg) no-repeat;
+}
+
+
+.proposta{
+
+    min-height: 150dvh;
+    display: flex;
+    align-items: center;
+    background:url(fotos/s2Prancheta3.jpg) no-repeat;
+}
+
+
+
+.contrate-me{
+
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    background:url(fotos/s2Prancheta4.jpg) no-repeat;
+}
